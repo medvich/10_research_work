@@ -1,0 +1,8 @@
+# Default PyCharm project ignored files
+.idea/
+
+# Prepared files
+prep/
+
+# Literature
+literature/
