@@ -6,3 +6,11 @@ prep/
 
 # Literature
 literature/
+
+# Others
+TODO.txt
+src/.ipynb_checkpoints/
+src/tempfile.ipynb
+src/__pycache__/
+src/jupyter_themes.ipynb
+
