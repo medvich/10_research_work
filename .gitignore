@@ -9,8 +9,26 @@ literature/
 
 # Others
 TODO.txt
+AirCombatEnv.xmind
+
+# Paths
 src/.ipynb_checkpoints/
-src/tempfile.ipynb
 src/__pycache__/
+src/backup/
+src/docs/
+src/files/
+src/rl/
+src/tests/
+
+# Files
+src/tempfile.ipynb
 src/jupyter_themes.ipynb
+src/aircombat2d_copy.py
+src/aircombat2d_copy2.py
+src/rl_guidance-Copy1.ipynb
+src/rl_guidance-Copy2.ipynb
+src/Untitled.ipynb
+src/proportional navigation.ipynb
+
+
 

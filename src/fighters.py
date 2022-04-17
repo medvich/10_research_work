@@ -339,7 +339,7 @@ class LineOfSight:
         return 1 / coefficient * (target_vel * (target_t + target_n) - missile_vel * (missile_t + missile_n))
 
 
-def simulation(missile_opts, target_opts, target_autopilot, pn_guidance_law, k, t=0, dt=0.01, t_integration=1000):
+def simulation(missile_opts, target_opts, target_autopilot, pn_guidance_law, k, t=0, dt=0.05, t_integration=1000):
     t_stats = []
     v_angle_to_r_stats = []
     missile = Missile(missile_opts)
