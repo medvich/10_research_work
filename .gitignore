@@ -29,6 +29,19 @@ src/rl_guidance-Copy1.ipynb
 src/rl_guidance-Copy2.ipynb
 src/Untitled.ipynb
 src/proportional navigation.ipynb
+src/log.csv
+src/log_new.csv
+src/log_new1.csv
+src/q.pt
+src/q1.pt
+src/q_target.pt
+src/q_target1.pt
+
+# Main files ignored due to presentation
+src/aircombat2d.py
+src/fighters.py
+src/guidance.py
+src/rl_guidance.ipynb
 
 
 
