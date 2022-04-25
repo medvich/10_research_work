@@ -25,7 +25,7 @@ src/tempfile.ipynb
 src/jupyter_themes.ipynb
 src/aircombat2d_copy.py
 src/aircombat2d_copy2.py
-src/rl_guidance-Copy1.ipynb
+#src/rl_guidance-Copy1.ipynb
 src/rl_guidance-Copy2.ipynb
 src/Untitled.ipynb
 src/proportional navigation.ipynb
@@ -38,10 +38,12 @@ src/q_target.pt
 src/q_target1.pt
 
 # Main files ignored due to presentation
-src/aircombat2d.py
-src/fighters.py
-src/guidance.py
+#src/aircombat2d.py
+#src/fighters.py
+#src/guidance.py
 src/rl_guidance.ipynb
-
-
-
+src/example/simulation 1.gif
+src/example/simulation 2.gif
+src/log_new2.csv
+src/q2.pt
+src/q_target2.pt
